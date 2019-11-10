@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /forbidden
+Disallow: /admin/
+Disallow: /cpanel/
+Disallow: /includes/
+Sidemap:http://www.taekwon.eu/630875/sitemap.xml

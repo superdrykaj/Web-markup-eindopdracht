@@ -1,0 +1,4 @@
+student name: Kai Koster
+student number:630875
+student class: HAINFVT1SB
+URL student GitHub repository: https://github.com/superdrykaj/Web-markup-eindopdracht
